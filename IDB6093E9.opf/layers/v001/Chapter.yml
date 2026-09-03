@@ -1,0 +1,85 @@
+id: 771d662fcee946cb82583e209ab7b166
+annotation_type: Chapter
+revision: '00001'
+annotations:
+  baa962214d6a49619b2b25cae2904db6:
+    span:
+      start: 1164
+      end: 1181
+  92196c2c3fdc4eb3a69ddd742fb1d7cf:
+    span:
+      start: 12842
+      end: 12925
+  1ecc9d07a93a4c578fa7cc01c849b466:
+    span:
+      start: 45690
+      end: 45801
+  f0d115aa5fb34f56bafb11e82f6d4493:
+    span:
+      start: 54383
+      end: 54492
+  70b691bfcc49499b8ea4cbd0d5032da7:
+    span:
+      start: 109285
+      end: 109387
+  4c6873e74567491892b32f09216a9616:
+    span:
+      start: 140786
+      end: 140848
+  4287c426679241ee801ca304e3715449:
+    span:
+      start: 153657
+      end: 153735
+  7886759216aa4a078416c57d92e2d0a5:
+    span:
+      start: 173735
+      end: 173835
+  3a15068752e64415b9f46e44873a8462:
+    span:
+      start: 244938
+      end: 245041
+  5c50cfe380894787b32df12ec4c4b971:
+    span:
+      start: 284062
+      end: 284142
+  5dcb77e3471b45eebbed96550aa6854a:
+    span:
+      start: 299412
+      end: 299467
+  2552f29fed6742ddb96fdd9a7ca16fc4:
+    span:
+      start: 364120
+      end: 364235
+  0fe81200df354eae8742d0928c195fd3:
+    span:
+      start: 369041
+      end: 369059
+  f9c80df5594c4fd08cc1223b1e523578:
+    span:
+      start: 382125
+      end: 382147
+  d9b99405625d4a58bffc4c11cfa4ecda:
+    span:
+      start: 383039
+      end: 383054
+  9df555e63df14d74badf55322fffe0fa:
+    span:
+      start: 386245
+      end: 386262
+local_ids:
+  baa962214d6a49619b2b25cae2904db6: 200000
+  92196c2c3fdc4eb3a69ddd742fb1d7cf: 200001
+  1ecc9d07a93a4c578fa7cc01c849b466: 200002
+  f0d115aa5fb34f56bafb11e82f6d4493: 200003
+  70b691bfcc49499b8ea4cbd0d5032da7: 200004
+  4c6873e74567491892b32f09216a9616: 200005
+  4287c426679241ee801ca304e3715449: 200006
+  7886759216aa4a078416c57d92e2d0a5: 200007
+  3a15068752e64415b9f46e44873a8462: 200008
+  5c50cfe380894787b32df12ec4c4b971: 200009
+  5dcb77e3471b45eebbed96550aa6854a: 200010
+  2552f29fed6742ddb96fdd9a7ca16fc4: 200011
+  0fe81200df354eae8742d0928c195fd3: 200012
+  f9c80df5594c4fd08cc1223b1e523578: 200013
+  d9b99405625d4a58bffc4c11cfa4ecda: 200014
+  9df555e63df14d74badf55322fffe0fa: 200015
