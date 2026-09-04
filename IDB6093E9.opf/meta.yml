@@ -2,7 +2,7 @@ id: IDB6093E9
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SK-06
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ཤངས་པའི་སྒྲུབ་ཁང་གི་ཟུར་རྒྱན་ཀཾ་ཚང་གི་གདམས་པ་གཅེས་བཏུས།
   author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།, མཛད་པ་པོ། རྒྱལ་དབང་མཁའ་ཁྱབ་རྡོ་རྗེ།,
     མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ།, མཛད་པ་པོ། དཔའ་བོ་གཙུག་ལག་རྒྱ་མཚོ།, མཛད་པ་པོ།
     མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།, མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།, མཛད་པ་པོ།
@@ -18,13 +18,15 @@ source_metadata:
   sku: RDI-SK-06
   cover: RDI-SK-06.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ཤངས་པའི་སྒྲུབ་ཁང་གི་ཟུར་རྒྱན་ཀཾ་ཚང་གི་གདམས་པ་གཅེས་བཏུས།
   authors: *id001
   sku: RDI-SK-06
   cover: RDI-SK-06.jpeg
 layers:
 - Author
+- BookNumber
 - BookTitle
 - Chapter
 - Citation
