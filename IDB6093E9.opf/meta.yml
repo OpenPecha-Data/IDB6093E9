@@ -18,6 +18,7 @@ source_metadata:
   sku: RDI-SK-06
   cover: RDI-SK-06.jpeg
   volume: {}
+  series: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
   title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
   title: ཤངས་པའི་སྒྲུབ་ཁང་གི་ཟུར་རྒྱན་ཀཾ་ཚང་གི་གདམས་པ་གཅེས་བཏུས།
